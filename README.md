@@ -33,13 +33,6 @@ Custom Exception Classes
 
 Exception Handling (try-catch)
 
-🧪 Functional Use of Custom Exceptions:
-
-Functionality	Custom Exceptions (Examples)
-Add Student	    DuplicatePRNException, InvalidStudentException
-Display/Search	StudentNotFoundException, InvalidPositionException
-Update Student	StudentNotFoundException, InvalidStudentException
-Delete Student	StudentNotFoundException, InvalidStudentException
 ✅ Expected Output:
 A clean, interactive console application that:
 
